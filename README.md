@@ -1,7 +1,11 @@
 # Random Quote Generator
 This is a simple web application that generates a random quote every time the user clicks on the "Generate Quote" button. The application uses the Forismatic API to retrieve a random quote in JSON format and displays it on the page using JavaScript.
 
-##Technologies Used
+## Link
+
+https://armansoor.github.io/quotegenerator/
+
+## Technologies Used
 1. HTML
 2. CSS
 3. JavaScript
